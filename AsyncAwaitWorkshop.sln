@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WgetAnalogue", "WgetAnalogue\WgetAnalogue.csproj", "{8E487DEF-114A-4F4E-85DC-B568DEE08961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WgetAnalogue.Console", "WgetAnalogue.Console\WgetAnalogue.Console.csproj", "{67EE9461-15F5-4787-AB01-9D373D2B682C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E487DEF-114A-4F4E-85DC-B568DEE08961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E487DEF-114A-4F4E-85DC-B568DEE08961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E487DEF-114A-4F4E-85DC-B568DEE08961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E487DEF-114A-4F4E-85DC-B568DEE08961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EE9461-15F5-4787-AB01-9D373D2B682C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EE9461-15F5-4787-AB01-9D373D2B682C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EE9461-15F5-4787-AB01-9D373D2B682C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EE9461-15F5-4787-AB01-9D373D2B682C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6FB272-6BA7-4A79-8FC5-5A6B67A590FD}
+	EndGlobalSection
+EndGlobal
